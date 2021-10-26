@@ -204,12 +204,12 @@ input[type="submit"]:hover, input[type="submit"]:focus{
           alt="logo"
         />
         <a href="https://t.me/Xcodershub"> 
-          <h2 class="name">TorToolkitX</h2>
+          <h2 class="name">Indian Anime Club</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/Xcodershub/TortoolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/Xcodershub"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/indiananimeclubX"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/indiananimeclub"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -543,12 +543,12 @@ section span{
           alt="logo"
         />
         <a href="https://t.me/Xcodershub">
-          <h2 class="name">TorToolkitX</h2>
+          <h2 class="name">Indian Anime Club</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/https://github.com/XcodersHub/TorToolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/Xcodershub"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/indiananimeclub"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/indiananimeclub"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -721,7 +721,7 @@ async def set_priority(request):
 @routes.get("/")
 async def homepage(request):
     return web.Response(
-        text='<h1>🤗TorToolkitX webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TorToolkitX on <a href="https://github.com/XcodersHub/TorToolkitX">@GitHub</a></h2>\n<h2>🥲Join XcodersHub <a href="https://t.me/XcodersHub">TG channel</a></h2>',
+        text='<h1>🤗Indian Anime Club webserver is Up and Running successfully🟢</h1>\n<h2>⚡See Indian Anime Club on <a href="https://t.me/indiananimeclub">@IndianAnimeClub</a></h2>\n<h2>🥲Join our group <a href="https://t.me/indiananimeclub">and TG channel</a></h2>',
         content_type="text/html",
     )
 
